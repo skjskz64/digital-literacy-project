@@ -69,4 +69,4 @@ This project helped me gain practical knowledge of digital literacy and improved
 
 ---
 
-🔗 *Repository Link:* 🔗 
+🔗 *Repository Link:* https://github.com/skjskz64/digital-literacy-project.git
